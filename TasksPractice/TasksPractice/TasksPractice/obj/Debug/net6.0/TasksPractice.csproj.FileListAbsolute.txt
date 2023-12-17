@@ -12,3 +12,4 @@ C:\Users\Анастасия Еремина\Documents\GitHubTests\NewTests\TasksP
 C:\Users\Анастасия Еремина\Documents\GitHubTests\NewTests\TasksPractice\TasksPractice\TasksPractice\obj\Debug\net6.0\TasksPractice.pdb
 C:\Users\Анастасия Еремина\Documents\GitHubTests\NewTests\TasksPractice\TasksPractice\TasksPractice\obj\Debug\net6.0\TasksPractice.genruntimeconfig.cache
 C:\Users\Анастасия Еремина\Documents\GitHubTests\NewTests\TasksPractice\TasksPractice\TasksPractice\obj\Debug\net6.0\ref\TasksPractice.dll
+C:\Users\Анастасия Еремина\Documents\GitHubTests\NewTests\TasksPractice\TasksPractice\TasksPractice\obj\Debug\net6.0\TasksPractice.sourcelink.json
