@@ -1,0 +1,15 @@
+C:\Users\Анастасия Еремина\Documents\GitHubTests\NewTests\TrainTasks\TrainTasks\bin\Debug\net6.0\TrainTasks.exe
+C:\Users\Анастасия Еремина\Documents\GitHubTests\NewTests\TrainTasks\TrainTasks\bin\Debug\net6.0\TrainTasks.deps.json
+C:\Users\Анастасия Еремина\Documents\GitHubTests\NewTests\TrainTasks\TrainTasks\bin\Debug\net6.0\TrainTasks.runtimeconfig.json
+C:\Users\Анастасия Еремина\Documents\GitHubTests\NewTests\TrainTasks\TrainTasks\bin\Debug\net6.0\TrainTasks.dll
+C:\Users\Анастасия Еремина\Documents\GitHubTests\NewTests\TrainTasks\TrainTasks\bin\Debug\net6.0\TrainTasks.pdb
+C:\Users\Анастасия Еремина\Documents\GitHubTests\NewTests\TrainTasks\TrainTasks\obj\Debug\net6.0\TrainTasks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Анастасия Еремина\Documents\GitHubTests\NewTests\TrainTasks\TrainTasks\obj\Debug\net6.0\TrainTasks.AssemblyInfoInputs.cache
+C:\Users\Анастасия Еремина\Documents\GitHubTests\NewTests\TrainTasks\TrainTasks\obj\Debug\net6.0\TrainTasks.AssemblyInfo.cs
+C:\Users\Анастасия Еремина\Documents\GitHubTests\NewTests\TrainTasks\TrainTasks\obj\Debug\net6.0\TrainTasks.csproj.CoreCompileInputs.cache
+C:\Users\Анастасия Еремина\Documents\GitHubTests\NewTests\TrainTasks\TrainTasks\obj\Debug\net6.0\TrainTasks.sourcelink.json
+C:\Users\Анастасия Еремина\Documents\GitHubTests\NewTests\TrainTasks\TrainTasks\obj\Debug\net6.0\TrainTasks.dll
+C:\Users\Анастасия Еремина\Documents\GitHubTests\NewTests\TrainTasks\TrainTasks\obj\Debug\net6.0\refint\TrainTasks.dll
+C:\Users\Анастасия Еремина\Documents\GitHubTests\NewTests\TrainTasks\TrainTasks\obj\Debug\net6.0\TrainTasks.pdb
+C:\Users\Анастасия Еремина\Documents\GitHubTests\NewTests\TrainTasks\TrainTasks\obj\Debug\net6.0\TrainTasks.genruntimeconfig.cache
+C:\Users\Анастасия Еремина\Documents\GitHubTests\NewTests\TrainTasks\TrainTasks\obj\Debug\net6.0\ref\TrainTasks.dll
